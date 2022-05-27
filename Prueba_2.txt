@@ -1,5 +1,8 @@
 Hola mi nombre es Carlos y este es la segunda version de mi bibliografia
 
-Vamos a ver una serie de comandos que seran utiles para todo la trayectoriatotal 2.0K
+Vamos a ver una serie de comandos que seran utiles para toda la trayectoria como Data Analyst
+
+He estudiado fundamentos de BD y fundamentos de la terminal y lineas de comando.
+
 -rw-r--r-- 1 HP 197121  69 May 26 20:57 Prueba.txt
 -rw-r--r-- 1 HP 197121 149 May 26 21:14 Prueba2.txt
