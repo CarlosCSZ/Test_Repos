@@ -4,5 +4,7 @@ Vamos a ver una serie de comandos que seran utiles para toda la trayectoria como
 
 He estudiado fundamentos de BD y fundamentos de la terminal y lineas de comando.
 
+Ahora estamos aprendiendo como hacer git pull y git push correctamente.
+
 -rw-r--r-- 1 HP 197121  69 May 26 20:57 Prueba.txt
 -rw-r--r-- 1 HP 197121 149 May 26 21:14 Prueba2.txt
