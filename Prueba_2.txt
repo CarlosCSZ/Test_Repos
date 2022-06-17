@@ -9,3 +9,8 @@ Ahora estamos aprendiendo como hacer git pull y git push correctamente.
 
 -rw-r--r-- 1 HP 197121  69 May 26 20:57 Prueba.txt
 -rw-r--r-- 1 HP 197121 149 May 26 21:14 Prueba2.txt
+
+Aquí se concateno desde el comando ls -al hasta el documento actual. Solo una prueba. 
+
+Date: 17/06/2022
+Vamos a probar conocimientos de javaScript mediante un juego de piedra, papel y tijera.
